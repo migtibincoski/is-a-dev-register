@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "migtibincoski",
+    "email": "contact@migtibincoski.is-a.dev"
+  },
+  "records": {
+    "CNAME": "migtibincoski.github.io",
+    "TXT": [
+      "zoho-verification=zb38875887.zmverify.zoho.com"
+    ]
+  },
+  "proxied": true
+}
